@@ -1,6 +1,6 @@
 ![ee](https://github.com/user-attachments/assets/6d1ccc49-5f75-4591-b993-4a243adaf724)
 
-# srbfetch
+# MOVED TO CODEBERG.ORG/DIABLOBLANCO/SRBFETCH
 Fast, C-Written, non-bloated alternative for neofetch and fastfetch. Work in progress!
 ## How to install
 Run vars.sh script.
